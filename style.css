@@ -290,3 +290,59 @@ footer h1
     text-decoration: none;
     color: #760001;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* smartphone */
+@media only screen and (max-width: 300px) {
+    body {
+
+    }
+  
+
+
+
+
+
+    
+/* tablette */
+@media only screen and (max-width: 768px) {
+    body {
+
+    }
+
+
+
+
+    
+/* desktop */
+@media only screen and (min-width: 768px) {
+    .box {
+
+    }
+
+
+
+
+
+    
+
+
+    .box {
+        display: flex;
+      }
+
+      .box > * {
+        flex: 1 1 0;
+      }
+  
